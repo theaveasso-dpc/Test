@@ -1,5 +1,5 @@
-# How to setup local database for development
-## Postgres with Docker
+## Setup local database for development
+
 ```
 docker-compose up -d 
 ```
